@@ -1,0 +1,11 @@
+{
+  "name": "Snake Game Base",
+  "short_name": "snake-game",
+  "version": "1.0.0",
+  "description": "Base mini app: snake game (Vite).",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": []
+}
