@@ -1,0 +1,10 @@
+{
+  "miniapp": {
+    "name": "Snake Game Base",
+    "description": "Simple snake mini app built with Vite.",
+    "icon": "icon.png"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xCe28d671A387c46533b9Feb5c50A127C711a9052"
+  }
+}
